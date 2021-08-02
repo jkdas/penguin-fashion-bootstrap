@@ -1,0 +1,73 @@
+/* Google fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* Common styles */
+header{
+    background-color: #FFFBF0;
+    margin-bottom: 50px;
+    padding-bottom: 100px;
+}
+.logo{
+    max-width: 250px;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+    color: #363958;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: #363958;
+}
+.color-words{
+    color: #FABE4C;
+}
+/* Hero section  */
+.intro-slogan{
+    font-size: 80px;
+}
+
+.btn-buy-now{
+    color: white;
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    border-radius: 10px;
+    border: none;
+    padding: 18px 30px;
+    width: 170px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.section-header{
+    font-size: 48px;
+}
+
+.women-men-jacket, .shopping-cart-offer{
+    background: #f86a6a;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+}
+
+.jacket-img{
+    background: #F1F1F1;
+    border-radius: 20px; 
+}
+.jacket-img img{
+    width: 250px;
+    height: 300px;
+}
+.women-men-jacket h2{
+    font-size: 24px;
+    font-weight: bold;
+}
+.women-men-jacket h3{
+    font-size: 36px;
+    font-weight: 900;
+}
+.shopping-cart-offer h2{
+    font-size: 24px;
+    font-weight: bold;
+}
